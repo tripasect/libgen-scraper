@@ -1,0 +1,537 @@
+{'title': 'Good Habits, Bad Habits: The Science of Making Positive Changes That Stick', 'author': 'Wendy Wood', 'downloaded': True}
+{'title': 'The Five Clocks', 'author': 'Martin Joos', 'downloaded': 'not-found'}
+{'title': "The Book of Cheese: The Essential Guide to Discovering Cheeses You'll Love", 'author': 'Liz Thorpe', 'downloaded': 'not-found'}
+{'title': 'World Cheese Book', 'author': 'Juliet Harbutt', 'downloaded': True}
+{'title': 'How to Become a Straight-A Student', 'author': 'Cal Newport', 'downloaded': True}
+{'title': 'Gesture: Visible Action as Utterance', 'author': 'Adam Kendon', 'downloaded': True}
+{'title': 'Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World', 'author': 'J. Mark G. Williams', 'downloaded': 'not-found'}
+{'title': 'The Man Who Mistook His Wife for a Hat and Other Clinical Tales', 'author': 'Oliver Sacks', 'downloaded': True}
+{'title': 'The Hockey Stick and the Climate Wars: Dispatches from the Front Lines', 'author': 'Michael E. Mann', 'downloaded': True}
+{'title': 'A Brief History of Time', 'author': 'Stephen Hawking', 'downloaded': True}
+{'title': 'May We Borrow Your Language?', 'author': 'Philip Gooden', 'downloaded': True}
+{'title': 'This Changes Everything: Capitalism vs. The Climate', 'author': 'Naomi Klein', 'downloaded': True}
+{'title': 'Ha!: The Science of When We Laugh and Why', 'author': 'Scott Weems', 'downloaded': True}
+{'title': 'The Design of Everyday Things', 'author': 'Donald A. Norman', 'downloaded': True}
+{'title': 'The Psychology of Human-Computer Interaction', 'author': 'Stuart Card', 'downloaded': True}
+{'title': 'Structure, Sign, and Play', 'author': 'Jacques Derrida', 'downloaded': 'not-found'}
+{'title': 'Never Split the Difference', 'author': 'Chris Voss', 'downloaded': True}
+{'title': 'I, Robot (Robot, #0.1)', 'author': 'Isaac Asimov', 'downloaded': True}
+{'title': 'Critical Thinking: Your Guide to Effective Argument, Successful Analysis and Independent Study', 'author': 'Tom Chatfield', 'downloaded': True}
+{'title': 'Tribe: On Homecoming and Belonging', 'author': 'Sebastian Junger', 'downloaded': True}
+{'title': 'Everything is F*cked', 'author': 'Mark Manson', 'downloaded': True}
+{'title': "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love", 'author': 'Cal Newport', 'downloaded': True}
+{'title': 'Getting Things Done: The Art of Stress-Free Productivity', 'author': 'David Allen', 'downloaded': True}
+{'title': "So You've Been Publicly Shamed", 'author': 'Jon Ronson', 'downloaded': True}
+{'title': 'Cracking the Coding Interview: +1000 Programming Questions and Solutions for every step of Interview. [ 9Th Edition 2014]', 'author': 'Harry Hariom Choudhary', 'downloaded': 'not-found'}
+{'title': 'Burning Chrome (Sprawl, #0)', 'author': 'William Gibson', 'downloaded': 'not-found'}
+{'title': 'Mona Lisa Overdrive (Sprawl, #3)', 'author': 'William Gibson', 'downloaded': 'skip'}
+{'title': 'Count Zero (Sprawl, #2)', 'author': 'William Gibson', 'downloaded': 'skip'}
+{'title': 'How to Create a Mind: The Secret of Human Thought Revealed', 'author': 'Ray Kurzweil', 'downloaded': True}
+{'title': '#Accelerate: The Accelerationist Reader', 'author': 'Robin Mackay', 'downloaded': 'not-found'}
+{'title': 'Fanged Noumena: Collected Writings, 1987-2007', 'author': 'Nick Land', 'downloaded': True}
+{'title': 'Neuromancer (Sprawl, #1)', 'author': 'William Gibson', 'downloaded': 'skip'}
+{'title': 'The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary', 'author': 'Eric S. Raymond', 'downloaded': True}
+{'title': 'The C Programming Language', 'author': 'Brian W. Kernighan', 'downloaded': True}
+{'title': 'Sallust: The Conspiracy of Catiline and the War of Jugurtha', 'author': 'Quintus Curtius', 'downloaded': 'not-found'}
+{'title': 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power', 'author': 'Shoshana Zuboff', 'downloaded': True}
+{'title': 'A Concise Introduction to Logic [with CD-ROM]', 'author': 'Patrick J. Hurley', 'downloaded': 'not-found'}
+{'title': 'Algorithms & Data Structures', 'author': 'Niklaus Wirth', 'downloaded': True}
+{'title': 'The Mansions of Philosophy: A Survey of Human Life and Destiny', 'author': 'Will Durant', 'downloaded': 'not-found'}
+{'title': 'Critical Thinking', 'author': 'Brooke Noel Moore', 'downloaded': True}
+{'title': 'A Rulebook for Arguments', 'author': 'Anthony Weston', 'downloaded': True}
+{'title': 'Introduction to Probability', 'author': 'Dimitri P. Bertsekas', 'downloaded': True}
+{'title': "Schaum's Outline of Probability, Random Variables, and Random Processes", 'author': 'Hwei P. Hsu', 'downloaded': 'skip'}
+{'title': 'Elements of Engineering Probability and Statistics', 'author': 'Rodger E. Ziemer', 'downloaded': 'not-found'}
+{'title': 'Introduction to Probability', 'author': 'Dimitri P. Bertsekas', 'downloaded': True}
+{'title': 'An Introduction to Quantum Physics', 'author': 'Anthony P. French', 'downloaded': 'skip'}
+{'title': 'Introduction to Computation and Programming Using Python', 'author': 'John Guttag', 'downloaded': 'skip'}
+{'title': 'Introduction to Algorithms', 'author': 'Thomas H. Cormen', 'downloaded': True}
+{'title': 'Problem Solving with Algorithms and Data Structures Using Python', 'author': 'Bradley N. Miller', 'downloaded': True}
+{'title': 'Computational Complexity', 'author': 'Sanjeev Arora', 'downloaded': True}
+{'title': 'The Nature of Computation', 'author': 'Cristopher Moore', 'downloaded': True}
+{'title': 'Principles of Computer System Design: An Introduction', 'author': 'Jerome H. Saltzer', 'downloaded': True}
+{'title': 'Algorithms', 'author': 'Sanjoy Dasgupta', 'downloaded': True}
+{'title': 'Linguistics: An Introduction to Language and Communication', 'author': 'Adrian Akmajian', 'downloaded': True}
+{'title': 'Computer Networks', 'author': 'Andrew S. Tanenbaum', 'downloaded': True}
+{'title': 'Conversations of Socrates', 'author': 'Xenophon', 'downloaded': 'skip'}
+{'title': 'The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk', 'author': 'Al Ries', 'downloaded': True}
+{'title': 'UNIX: A History and a Memoir', 'author': 'Brian W. Kernighan', 'downloaded': 'not-found'}
+{'title': 'Operating Systems: Internals and Design Principles', 'author': 'William Stallings', 'downloaded': True}
+{'title': 'Eloquent JavaScript: A Modern Introduction to Programming', 'author': 'Marijn Haverbeke', 'downloaded': True}
+{'title': 'Human Compatible: Artificial Intelligence and the Problem of Control', 'author': 'Stuart Russell', 'downloaded': True}
+{'title': 'Mindset: The New Psychology of Success', 'author': 'Carol S. Dweck', 'downloaded': True}
+{'title': "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)", 'author': 'Douglas Adams', 'downloaded': 'skip'}
+{'title': 'The Communist Manifesto and Das Kapital', 'author': 'Karl Marx', 'downloaded': True}
+{'title': 'Anything You Want', 'author': 'Derek Sivers', 'downloaded': True}
+{'title': 'The 4-Hour Workweek', 'author': 'Timothy Ferriss', 'downloaded': True}
+{'title': 'Manifestoes of Surrealism', 'author': 'AndrÃ© Breton', 'downloaded': 'not-found'}
+{'title': 'Quotations from Chairman Mao Tse-Tung', 'author': 'Mao Tse-tung', 'downloaded': True}
+{'title': 'The Essential Rosa Luxemburg: Reform or Revolution/The Mass Strike', 'author': 'Rosa Luxemburg', 'downloaded': True}
+{'title': 'The Gulag Archipelago 1918 (Abridged)', 'author': 'Aleksandr Solzhenitsyn', 'downloaded': 'not-found'}
+{'title': "War is not the end of the world: it is an atomic 'charco'", 'author': 'J. Posadas', 'downloaded': 'not-found'}
+{'title': 'Selected Political Writings', 'author': 'Rosa Luxemburg', 'downloaded': 'skip'}
+{'title': 'Industrial Society and Its Future', 'author': 'Theodore J. Kaczynski', 'downloaded': True}
+{'title': 'Atlas Shrugged', 'author': 'Ayn Rand', 'downloaded': True}
+{'title': 'Siege', 'author': 'James N. Mason', 'downloaded': 'not-found'}
+{'title': 'From Aristocracy to Monarchy to Democracy: A Tale of Moral and Economic Folly and Decay', 'author': 'Hans-Hermann Hoppe', 'downloaded': True}
+{'title': 'Das Kapital', 'author': 'Karl Marx', 'downloaded': True}
+{'title': 'Revolt Against the Modern World', 'author': 'Julius Evola', 'downloaded': True}
+{'title': 'Eros and the Mysteries of Love: The Metaphysics of Sex', 'author': 'Julius Evola', 'downloaded': True}
+{'title': 'The Communist Manifesto', 'author': 'Karl Marx', 'downloaded': True}
+{'title': 'Love of Worker Bees', 'author': 'Aleksandra Kollontai', 'downloaded': True}
+{'title': 'The Conquest of Bread', 'author': 'Pyotr Kropotkin', 'downloaded': True}
+{'title': 'Homage to Catalonia', 'author': 'George Orwell', 'downloaded': True}
+{'title': 'Estado y revoluciÃ³n', 'author': 'Vladimir Ilyich Lenin', 'downloaded': 'not-found'}
+{'title': 'Handbook of Neuroevolution Through ERLANG', 'author': 'Gene I. Sher', 'downloaded': True}
+{'title': 'The Moral Landscape: How Science Can Determine Human Values', 'author': 'Sam Harris', 'downloaded': True}
+{'title': 'The Prince', 'author': 'NiccolÃ² Machiavelli', 'downloaded': 'not-found'}
+{'title': 'The Linux Command Line', 'author': 'William E. Jr. Shotts', 'downloaded': True}
+{'title': 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams Ex200 & Ex300)', 'author': 'Michael Jang', 'downloaded': 'skip'}
+{'title': 'Let My People Go Surfing: The Education of a Reluctant Businessman', 'author': 'Yvon Chouinard', 'downloaded': True}
+{'title': 'Deep Work: Rules for Focused Success in a Distracted World', 'author': 'Cal Newport', 'downloaded': True}
+{'title': 'Digital Minimalism: Choosing a Focused Life in a Noisy World', 'author': 'Cal Newport', 'downloaded': True}
+{'title': '12 Rules for Life: An Antidote to Chaos', 'author': 'Jordan B. Peterson', 'downloaded': True}
+{'title': 'Company of One: Why Staying Small Is the Next Big Thing for Business', 'author': 'Paul Jarvis', 'downloaded': True}
+{'title': 'Money: A Userâ\x80\x99s Guide', 'author': 'Laura Whateley', 'downloaded': 'not-found'}
+{'title': 'Principles: Life and Work', 'author': 'Ray Dalio', 'downloaded': True}
+{'title': 'The Multi-Hyphen Method: Work less, create more, and design a career that works for you', 'author': 'Emma Gannon', 'downloaded': True}
+{'title': 'Stillness Is the Key', 'author': 'Ryan Holiday', 'downloaded': True}
+{'title': 'Algebra: Chapter 0', 'author': 'Paolo Aluffi', 'downloaded': 'skip'}
+{'title': 'The Power of Now: A Guide to Spiritual Enlightenment', 'author': 'Eckhart Tolle', 'downloaded': True}
+{'title': 'To Do Doing Done: A Creative Approach to Managing Projects and Effectively Finishing What Matters Most', 'author': 'G. Lynne Snead', 'downloaded': 'not-found'}
+{'title': 'The Project Management Scorecard: Measuring The Success Of Project Management Solutions', 'author': 'Jack J. Phillips', 'downloaded': 'not-found'}
+{'title': 'Start a Successful Business: Expert Advice to Take Your Startup from Idea to Empire', 'author': 'Colleen DeBaise', 'downloaded': 'not-found'}
+{'title': 'Developing the Leader Within You', 'author': 'John C. Maxwell', 'downloaded': True}
+{'title': 'The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You', 'author': 'John C. Maxwell', 'downloaded': True}
+{'title': 'Abstract Algebra', 'author': 'David S. Dummit', 'downloaded': True}
+{'title': 'Elements of Algebra: Geometry, Numbers, Equations', 'author': 'John Stillwell', 'downloaded': True}
+{'title': 'The Startup Roadmap: 21 Steps to Profitability', 'author': 'Ed "Skip" McLaughlin', 'downloaded': 'not-found'}
+{'title': 'Political Parties : A Sociological Study of the Oligarchical Tendencies of Modern Democracy', 'author': 'Robert Michels', 'downloaded': True}
+{'title': 'Science and Human Behavior', 'author': 'B.F. Skinner', 'downloaded': True}
+{'title': 'Game Mechanics: Advanced Game Design', 'author': 'Ernest Adams', 'downloaded': True}
+{'title': 'The Invisible Game: Mindset of a Winning Team', 'author': 'Zoltan Andrejkovics', 'downloaded': 'not-found'}
+{'title': '100 More Things Every Designer Needs to Know about People', 'author': 'Susan M. Weinschenk', 'downloaded': 'not-found'}
+{'title': 'Getting Gamers: The Psychology of Video Games and Their Impact on the People Who Play Them', 'author': 'Jamie Madigan', 'downloaded': True}
+{'title': 'SuperBetter: A Revolutionary Approach to Getting Stronger, Happier, Braver and More Resilient - Powered by the Science of Games', 'author': 'Jane McGonigal', 'downloaded': True}
+{'title': 'The Indie Game Developer Handbook', 'author': 'Richard Hill-Whittall', 'downloaded': True}
+{'title': 'Game Engine Architecture', 'author': 'Jason Gregory', 'downloaded': True}
+{'title': "Thought Reform and the Psychology of Totalism: A Study of 'brainwashing' in China", 'author': 'Robert Jay Lifton', 'downloaded': True}
+{'title': 'The Crowd: A Study of the Popular Mind', 'author': 'Gustave Le Bon', 'downloaded': True}
+{'title': 'Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers', 'author': 'Geoffrey A. Moore', 'downloaded': 'not-found'}
+{'title': 'Reality is Broken: Why Games Make Us Better and How They Can Change the World', 'author': 'Jane McGonigal', 'downloaded': True}
+{'title': 'The Oxford Handbook of Ethical Theory', 'author': 'David Copp', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Memory', 'author': 'Endel Tulving', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Music Psychology', 'author': 'Susan Hallam', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Philosophy of Mind', 'author': 'Brian P. McLaughlin', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Innovation', 'author': 'Jan Fagerberg', 'downloaded': True}
+{'title': 'Oxford Handbook of Evolutionary Psychology', 'author': 'Robin I.M. Dunbar', 'downloaded': 'not-found'}
+{'title': 'The Oxford Handbook of Epistemology', 'author': 'Paul K. Moser', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Political Science', 'author': 'Robert E. Goodin', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Philosophy of Mathematics and Logic', 'author': 'Stewart Shapiro', 'downloaded': 'not-found'}
+{'title': 'The Oxford Handbook of Public Policy', 'author': 'Michael Moran', 'downloaded': 'skip'}
+{'title': 'The Oxford Handbook of Free Will', 'author': 'Robert H. Kane', 'downloaded': 'not-found'}
+{'title': 'The Oxford Handbook of Political Economy', 'author': 'Barry R. Weingast', 'downloaded': 'skip'}
+{'title': 'Oxford Handbook of Political Psychology', 'author': 'David O. Sears', 'downloaded': True}
+{'title': 'Neuroscience and Multilingualism', 'author': 'Edna Andrews', 'downloaded': True}
+{'title': "Adulthood Is a Myth (Sarah's Scribbles, #1)", 'author': 'Sarah Andersen', 'downloaded': True}
+{'title': 'She Felt Like Feeling Nothing', 'author': 'r.h. Sin', 'downloaded': True}
+{'title': 'The Diary of a Young Girl', 'author': 'Anne Frank', 'downloaded': 'error'}
+{'title': 'The Waste Land and Other Poems', 'author': 'T.S. Eliot', 'downloaded': 'not-found'}
+{'title': 'Pulp', 'author': 'Charles Bukowski', 'downloaded': True}
+{'title': 'Home of the Gentry', 'author': 'Ivan Turgenev', 'downloaded': 'not-found'}
+{'title': 'How Music Works', 'author': 'David Byrne', 'downloaded': True}
+{'title': 'Hard-Boiled Wonderland and the End of the World', 'author': 'Haruki Murakami', 'downloaded': True}
+{'title': 'The Castle', 'author': 'Franz Kafka', 'downloaded': 'error'}
+{'title': 'Our Lady of the Flowers', 'author': 'Jean Genet', 'downloaded': 'not-found'}
+{'title': 'Touching from a Distance: Ian Curtis and Joy Division', 'author': 'Deborah Curtis', 'downloaded': 'error'}
+{'title': 'Seven Nights', 'author': 'Jorge Luis Borges', 'downloaded': True}
+{'title': 'Pnin', 'author': 'Vladimir Nabokov', 'downloaded': 'error'}
+{'title': 'Undergraduate Algebra', 'author': 'Serge Lang', 'downloaded': 'error'}
+{'title': 'The Meaning of Anxiety', 'author': 'Rollo May', 'downloaded': True}
+{'title': 'Ever Yours: The Essential Letters', 'author': 'Vincent Van Gogh', 'downloaded': True}
+{'title': 'Clothes, Clothes, Clothes. Music, Music, Music. Boys, Boys, Boys', 'author': 'Viv Albertine', 'downloaded': True}
+{'title': 'Encyclopedia of Pain', 'author': 'Robert F. Schmidt', 'downloaded': True}
+{'title': 'A History of Rock Music: 1951-2000', 'author': 'Piero Scaruffi', 'downloaded': True}
+{'title': 'Intelligence is not Artificial: Why the Singularity is not Coming any Time Soon And Other Meditations on the Post-Human Condition and the Future of Intelligence', 'author': 'Piero Scaruffi', 'downloaded': 'not-found'}
+{'title': 'Anarchy in the Age of Dinosaurs', 'author': 'Curious George Brigade', 'downloaded': True}
+{'title': 'How the Mind Works', 'author': 'Steven Pinker', 'downloaded': True}
+{'title': 'The Blank Slate: The Modern Denial of Human Nature', 'author': 'Steven Pinker', 'downloaded': True}
+{'title': 'The Singularity is Near: When Humans Transcend Biology', 'author': 'Ray Kurzweil', 'downloaded': True}
+{'title': 'The Elements of Euclid', 'author': 'Euclid', 'downloaded': True}
+{'title': 'The First Six Books of the Elements of Euclid', 'author': 'Oliver Byrne', 'downloaded': True}
+{'title': 'Do You Talk Funny?: 7 Comedy Habits to Become a Better (and Funnier) Public Speaker', 'author': 'David Nihill', 'downloaded': True}
+{'title': 'TED Talks: The Official TED Guide to Public Speaking', 'author': 'Chris J. Anderson', 'downloaded': 'not-found'}
+{'title': 'White Noise', 'author': 'Don DeLillo', 'downloaded': True}
+{'title': 'The Art of Systems Architecting', 'author': 'Eberhardt Rechtin', 'downloaded': True}
+{'title': 'The Video Game Theory Reader', 'author': 'Mark J.P. Wolf', 'downloaded': True}
+{'title': 'The Video Game Theory Reader 2', 'author': 'Mark J.P. Wolf', 'downloaded': True}
+{'title': 'Understanding Video Games: The Essential Introduction', 'author': 'Simon Egenfeldt-Nielsen', 'downloaded': True}
+{'title': 'Writing for Video Game Genres: From FPS to RPG', 'author': 'Wendy Despain', 'downloaded': True}
+{'title': 'The Five Dysfunctions of a Team: A Leadership Fable', 'author': 'Patrick Lencioni', 'downloaded': 'error'}
+{'title': 'The Advantage: Why Organizational Health Trumps Everything Else in Business', 'author': 'Patrick Lencioni', 'downloaded': True}
+{'title': 'The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues', 'author': 'Patrick Lencioni', 'downloaded': True}
+{'title': 'Introduction to Econometrics (Addison-Wesley Series in Economics)', 'author': 'James H. Stock', 'downloaded': 'error'}
+{'title': 'The Oxford Handbook of Thinking and Reasoning', 'author': 'Keith J. Holyoak', 'downloaded': 'error'}
+{'title': 'The Life You Can Save: Acting Now to End World Poverty', 'author': 'Peter Singer', 'downloaded': True}
+{'title': "A Very Stable Genius: Donald J. Trump's Testing of America", 'author': 'Philip Rucker', 'downloaded': True}
+{'title': 'The Art of Deception: Controlling the Human Element of Security', 'author': 'Kevin D. Mitnick', 'downloaded': True}
+{'title': 'Are You Living In a Computer Simulation?', 'author': 'Nick Bostrom', 'downloaded': 'not-found'}
+{'title': 'What Is Intelligence?: Beyond the Flynn Effect', 'author': 'James R. Flynn', 'downloaded': True}
+{'title': 'Interactive Storytelling for Video Games: Proven Writing Techniques for Role Playing Games, Online Games, First Person Shooters, and More', 'author': 'Josiah Lebowitz', 'downloaded': 'not-found'}
+{'title': 'How to Win Friends and Influence People', 'author': 'Dale Carnegie', 'downloaded': True}
+{'title': 'To Sell is Human: The Surprising Truth About Moving Others', 'author': 'Daniel H. Pink', 'downloaded': True}
+{'title': 'Contagious: Why Things Catch On', 'author': 'Jonah Berger', 'downloaded': True}
+{'title': 'The Paradox of Choice: Why More Is Less', 'author': 'Barry Schwartz', 'downloaded': True}
+{'title': 'The Art of Choosing', 'author': 'Sheena Iyengar', 'downloaded': True}
+{'title': 'A Handbook For Data Analysis In The Behavioral Sciences', 'author': 'Charles Lewis', 'downloaded': 'not-found'}
+{'title': 'Influence: The Psychology of Persuasion', 'author': 'Robert B. Cialdini', 'downloaded': True}
+{'title': 'Enchantment: The Art of Changing Hearts, Minds, and Actions', 'author': 'Guy Kawasaki', 'downloaded': True}
+{'title': 'Algorithms to Live By: The Computer Science of Human Decisions', 'author': 'Brian Christian', 'downloaded': True}
+{'title': 'The Art of Startup Fundraising', 'author': 'Alejandro Cremades', 'downloaded': True}
+{'title': 'True North: Discover Your Authentic Leadership', 'author': 'Bill George', 'downloaded': 'error'}
+{'title': 'The Compound Effect: Jumpstart Your Income, Your Life, Your Success', 'author': 'Darren Hardy', 'downloaded': 'not-found'}
+{'title': 'The Art of Computer Programming, Volume 4, Fascicle 4: Generating All Trees--History of Combinatorial Generation', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'The Art of Computer Programming, Volume 4, Fascicle 2: Generating All Tuples and Permutations', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'The Art of Computer Programming, Volume 4, Fascicle 3: Generating All Combinations and Partitions', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'The Art of Computer Programming, Volume 4, Fascicle 1: Bitwise Tricks & Techniques; Binary Decision Diagrams', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'The Art of Computer Programming, Volume 4, Fascicle 0: Introduction to Combinatorial Algorithms and Boolean Functions', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'Introduction To Combinatorial Algorithms And Boolean Functions', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1', 'author': 'Donald Ervin Knuth', 'downloaded': True}
+{'title': 'The Art of Computer Programming, Volumes 1-3 Boxed Set', 'author': 'Donald Ervin Knuth', 'downloaded': 'not-found'}
+{'title': 'Enlightenment Now: The Case for Reason, Science, Humanism, and Progress', 'author': 'Steven Pinker', 'downloaded': True}
+{'title': 'What the Buddha Taught', 'author': 'Walpola Rahula', 'downloaded': True}
+{'title': 'The Game Design Reader: A Rules of Play Anthology', 'author': 'Katie Salen', 'downloaded': True}
+{'title': 'Chris Crawford on Game Design', 'author': 'Chris Crawford', 'downloaded': True}
+{'title': 'Balance of Power: International Politics as the Ultimate Global Game', 'author': 'Chris Crawford', 'downloaded': 'not-found'}
+{'title': 'Chris Crawford on Interactive Storytelling', 'author': 'Chris Crawford', 'downloaded': True}
+{'title': 'Defending Science - within Reason: Between Scientism And Cynicism', 'author': 'Susan Haack', 'downloaded': True}
+{'title': 'The Craft of Scientific Writing', 'author': 'Michael Alley', 'downloaded': True}
+{'title': 'On Writing Well: The Classic Guide to Writing Nonfiction', 'author': 'William Zinsser', 'downloaded': True}
+{'title': 'Writing Scientific Research Articles', 'author': 'Margaret Cargill', 'downloaded': True}
+{'title': 'Machinery of Freedom: Guide to a Radical Capitalism', 'author': 'David D. Friedman', 'downloaded': 'not-found'}
+{'title': 'Notes on Logic and Set Theory', 'author': 'Peter T. Johnstone', 'downloaded': 'not-found'}
+{'title': 'Finite and Infinite Games: A Vision of Life as Play and Possibility', 'author': 'James P. Carse', 'downloaded': True}
+{'title': 'Rationality: From AI to Zombies', 'author': 'Eliezer Yudkowsky', 'downloaded': True}
+{'title': 'Free Radicals: The Secret Anarchy of Science', 'author': 'Michael Brooks', 'downloaded': True}
+{'title': 'Gang Leader for a Day: A Rogue Sociologist Takes to the Streets', 'author': 'Sudhir Venkatesh', 'downloaded': True}
+{'title': "Orwell's Revenge: The 1984 Palimpsest", 'author': 'Peter Huber', 'downloaded': True}
+{'title': 'World Order', 'author': 'Henry Kissinger', 'downloaded': True}
+{'title': 'The Beginning of Infinity: Explanations That Transform the World', 'author': 'David Deutsch', 'downloaded': True}
+{'title': 'The Idea Factory: Bell Labs and the Great Age of American Innovation', 'author': 'Jon Gertner', 'downloaded': True}
+{'title': 'The Rational Optimist: How Prosperity Evolves', 'author': 'Matt Ridley', 'downloaded': True}
+{'title': "Energy: A Beginner's Guide", 'author': 'Vaclav Smil', 'downloaded': 'error'}
+{'title': 'Genome: the Autobiography of a Species in 23 Chapters', 'author': 'Matt Ridley', 'downloaded': True}
+{'title': 'Rational Ritual: Culture, Coordination, And Common Knowledge', 'author': 'Michael Suk-Young Chwe', 'downloaded': True}
+{'title': 'The Structure of Scientific Revolutions', 'author': 'Thomas S. Kuhn', 'downloaded': True}
+{'title': 'Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration', 'author': 'Ed Catmull', 'downloaded': True}
+{'title': 'Made to Stick: Why Some Ideas Survive and Others Die', 'author': 'Chip Heath', 'downloaded': True}
+{'title': "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses", 'author': 'Eric Ries', 'downloaded': True}
+{'title': 'Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems', 'author': 'Peter Dayan', 'downloaded': True}
+{'title': 'Fundamentals Of Computational Neuroscience', 'author': 'Thomas Trappenberg', 'downloaded': True}
+{'title': "Descartes' Error: Emotion, Reason and the Human Brain", 'author': 'Antonio R. Damasio', 'downloaded': True}
+{'title': 'Python Crash Course: A Hands-On, Project-Based Introduction to Programming', 'author': 'Eric Matthes', 'downloaded': True}
+{'title': '1001 Video Games You Must Play Before You Die', 'author': 'Tony Mott', 'downloaded': True}
+{'title': 'Brief Answers to the Big Questions', 'author': 'Stephen Hawking', 'downloaded': True}
+{'title': 'How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence', 'author': 'Michael Pollan', 'downloaded': True}
+{'title': 'The Development of Logic', 'author': 'William Kneale', 'downloaded': 'error'}
+{'title': "GÃ¶del's Proof", 'author': 'Ernest Nagel', 'downloaded': 'not-found'}
+{'title': 'Chaos: Making a New Science', 'author': 'James Gleick', 'downloaded': True}
+{'title': "Mas Oyama's Essential Karate", 'author': 'Masutatsu Oyama', 'downloaded': 'not-found'}
+{'title': 'Calculus, Volume 2: Multi-Variable Calculus and Linear Algebra with Applications', 'author': 'Tom M. Apostol', 'downloaded': True}
+{'title': 'Calculus, Volume 1: One-Variable Calculus with an Introduction to Linear Algebra', 'author': 'Tom M. Apostol', 'downloaded': True}
+{'title': 'Calculus', 'author': 'Gilbert Strang', 'downloaded': True}
+{'title': 'Pure Mathematics', 'author': 'S.L. Parsonson', 'downloaded': True}
+{'title': 'World Economic and Social Survey 2018: Frontier technologies for sustainable development', 'author': 'United Nations', 'downloaded': 'not-found'}
+{'title': 'Theories of Personality', 'author': 'Duane P. Schultz', 'downloaded': True}
+{'title': 'The MMIX Supplement: Supplement to the Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth', 'author': 'Martin Ruckert', 'downloaded': True}
+{'title': "Hacker's Delight", 'author': 'Henry S. Warren Jr.', 'downloaded': True}
+{'title': 'Interactive Stories and Video Game Art: A Storytelling Framework for Game Design', 'author': 'Chris Solarski', 'downloaded': True}
+{'title': 'The Big Picture: On the Origins of Life, Meaning, and the Universe Itself', 'author': 'Sean Carroll', 'downloaded': True}
+{'title': 'The World As I See It', 'author': 'Albert Einstein', 'downloaded': True}
+{'title': 'The Art of Systems Architecting', 'author': 'Eberhardt Rechtin', 'downloaded': True}
+{'title': 'Discrete Mathematics and Its Applications', 'author': 'Kenneth H. Rosen', 'downloaded': 'error'}
+{'title': "Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series)", 'author': 'Zed A. Shaw', 'downloaded': 'error'}
+{'title': 'Elements: A Visual Exploration of Every Known Atom in the Universe', 'author': 'Theodore Gray', 'downloaded': True}
+{'title': 'Molecules: The Elements and the Architecture of Everything', 'author': 'Theodore Gray', 'downloaded': True}
+{'title': 'An Investigation of the Laws of Thought', 'author': 'George Boole', 'downloaded': True}
+{'title': 'Logic for Philosophy', 'author': 'Theodore Sider', 'downloaded': True}
+{'title': 'Proofs and Refutations: The Logic of Mathematical Discovery', 'author': 'Imre Lakatos', 'downloaded': True}
+{'title': 'Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)', 'author': 'Harold Abelson', 'downloaded': True}
+{'title': 'UNIX Power Tools', 'author': 'Jerry Peek', 'downloaded': True}
+{'title': 'Think Python', 'author': 'Allen B. Downey', 'downloaded': True}
+{'title': 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones', 'author': 'James Clear', 'downloaded': 'not-found'}
+{'title': 'After Finitude: An Essay on the Necessity of Contingency', 'author': 'Quentin Meillassoux', 'downloaded': True}
+{'title': 'Fundamentals of Physics', 'author': 'David Halliday', 'downloaded': True}
+{'title': 'Theories of Personality', 'author': 'Jess Feist', 'downloaded': False}
+{'title': 'Superintelligence: Paths, Dangers, Strategies', 'author': 'Nick Bostrom', 'downloaded': False}
+{'title': 'Set Theory: An introduction to Independence Proofs  (Studies in Logic and the Foundations of Mathematics)', 'author': 'Kenneth Kunen', 'downloaded': False}
+{'title': 'The Beauty of Fractals: Images of Complex Dynamical Systems', 'author': 'Heinz-Otto Peitgen', 'downloaded': False}
+{'title': 'War and Peace', 'author': 'Leo Tolstoy', 'downloaded': False}
+{'title': 'Deep Economy: The Wealth of Communities and the Durable Future', 'author': 'Bill McKibben', 'downloaded': False}
+{'title': 'Introduction to Probability (Cambridge Mathematical Textbooks)', 'author': 'David F. Anderson', 'downloaded': False}
+{'title': 'Introduction to Probability', 'author': 'Joseph K. Blitzstein', 'downloaded': False}
+{'title': 'Eichmann in Jerusalem: A Report on the Banality of Evil', 'author': 'Hannah Arendt', 'downloaded': False}
+{'title': 'Introduction to Graph Theory', 'author': 'Douglas B. West', 'downloaded': False}
+{'title': 'Mathematical Reasoning: Writing and Proof', 'author': 'Ted Sundstrom', 'downloaded': False}
+{'title': 'Principles of General Chemistry', 'author': 'Martin Silberberg', 'downloaded': False}
+{'title': 'Tractatus Logico-Philosophicus', 'author': 'Ludwig Wittgenstein', 'downloaded': False}
+{'title': 'They Both Die at the End', 'author': 'Adam Silvera', 'downloaded': False}
+{'title': 'The Metamorphosis', 'author': 'Franz Kafka', 'downloaded': False}
+{'title': 'The Unbearable Lightness of Being', 'author': 'Milan Kundera', 'downloaded': False}
+{'title': 'The Kybalion', 'author': 'Three Intiates', 'downloaded': False}
+{'title': "A Lover's Discourse: Fragments", 'author': 'Roland Barthes', 'downloaded': False}
+{'title': 'The Road to Reality: A Complete Guide to the Laws of the Universe', 'author': 'Roger Penrose', 'downloaded': False}
+{'title': 'Perfectly Reasonable Deviations from the Beaten Track: Letters of Richard P. Feynman', 'author': 'Richard Feynman', 'downloaded': False}
+{'title': 'Qualityland (QualityLand - Saga, #1)', 'author': 'Marc-Uwe Kling', 'downloaded': False}
+{'title': 'Poetic Meter and Poetic Form', 'author': 'Paul Fussell', 'downloaded': False}
+{'title': 'Non-Euclidean Geometry', 'author': 'Robert Bonola', 'downloaded': False}
+{'title': 'Non-Euclidean Geometry', 'author': 'H.S.M. Coxeter', 'downloaded': False}
+{'title': 'Music by the Numbers: From Pythagoras to Schoenberg', 'author': 'Eli Maor', 'downloaded': False}
+{'title': 'The Art of Computer Programming: Volume 3: Sorting and Searching', 'author': 'Donald Ervin Knuth', 'downloaded': False}
+{'title': 'The Art of Computer Programming, Volume 2: Seminumerical Algorithms', 'author': 'Donald Ervin Knuth', 'downloaded': False}
+{'title': 'The Art of Computer Programming, Volume 1: Fundamental Algorithms', 'author': 'Donald Ervin Knuth', 'downloaded': False}
+{'title': 'Mathematics: Its Content, Methods and Meaning', 'author': 'A.D. Aleksandrov', 'downloaded': False}
+{'title': 'Introduction to Ring Theory', 'author': 'Paul M. Cohn', 'downloaded': False}
+{'title': 'The Illuminatus! Trilogy', 'author': 'Robert Shea', 'downloaded': False}
+{'title': 'Elements of Set Theory', 'author': 'Herbert B. Enderton', 'downloaded': False}
+{'title': 'Luciferian Goetia', 'author': 'Michael W. Ford', 'downloaded': False}
+{'title': 'The Wisdom of Life, and Other Essays (Classic Reprint)', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': "What's That Sound?: An Introduction to Rock and Its History", 'author': 'John Covach', 'downloaded': False}
+{'title': 'Land of LISP: Learn to Program in LISP, One Game at a Time!', 'author': 'Conrad Barski', 'downloaded': False}
+{'title': 'Computer Graphics: Principles and Practice', 'author': 'James D. Foley', 'downloaded': False}
+{'title': 'GÃ¶del, Escher, Bach', 'author': 'Agnes F. Vandome', 'downloaded': False}
+{'title': 'GÃ¶del, Escher, Bach: An Eternal Golden Braid', 'author': 'Douglas R. Hofstadter', 'downloaded': False}
+{'title': 'Calculus and Its Origins', 'author': 'David Perkins', 'downloaded': False}
+{'title': 'The Rest Is Noise: Listening to the Twentieth Century', 'author': 'Alex Ross', 'downloaded': False}
+{'title': 'The Calculi of Lambda Conversion. (Am-6), Volume 6', 'author': 'Alonzo Church', 'downloaded': False}
+{'title': 'Philosophy in the Modern World (New History of Western Philosophy, vol. 4)', 'author': 'Anthony Kenny', 'downloaded': False}
+{'title': 'The Rise of Modern Philosophy (New History of Western Philosophy, vol. 3)', 'author': 'Anthony Kenny', 'downloaded': False}
+{'title': 'Medieval Philosophy (New History of Western Philosophy, vol. 2)', 'author': 'Anthony Kenny', 'downloaded': False}
+{'title': 'A Brief History of Western Philosophy', 'author': 'Anthony Kenny', 'downloaded': False}
+{'title': 'Ancient Philosophy', 'author': 'Anthony Kenny', 'downloaded': False}
+{'title': 'A New History of Western Philosophy', 'author': 'Anthony Kenny', 'downloaded': False}
+{'title': 'A Guide To Elementary Number Theory (Dolciani Mathematical Expositions)', 'author': 'Underwood Dudley', 'downloaded': False}
+{'title': 'Satantango', 'author': 'LÃ¡szlÃ³ Krasznahorkai', 'downloaded': False}
+{'title': 'Pop. 1280', 'author': 'Jim Thompson', 'downloaded': False}
+{'title': 'A History of Narrative Film', 'author': 'David A. Cook', 'downloaded': False}
+{'title': 'That Awful Mess on the Via Merulana', 'author': 'Carlo Emilio Gadda', 'downloaded': False}
+{'title': 'Confessions of a Mask', 'author': 'Yukio Mishima', 'downloaded': False}
+{'title': 'The Shyness and Social Anxiety System', 'author': 'Sean Cooper', 'downloaded': False}
+{'title': 'The Joke and Its Relation to the Unconscious', 'author': 'Sigmund Freud', 'downloaded': False}
+{'title': 'Mars Trilogy', 'author': 'Kim Stanley Robinson', 'downloaded': False}
+{'title': '21 Lessons for the 21st Century', 'author': 'Yuval Noah Harari', 'downloaded': False}
+{'title': "Factfulness: Ten Reasons We're Wrong About the World â\x80\x93 and Why Things Are Better Than You Think", 'author': 'Hans Rosling', 'downloaded': False}
+{'title': 'Homo Deus: A History of Tomorrow', 'author': 'Yuval Noah Harari', 'downloaded': False}
+{'title': 'Animal Farm', 'author': 'George Orwell', 'downloaded': False}
+{'title': 'Sokrates', 'author': 'Gottfried Martin', 'downloaded': False}
+{'title': 'Einstein: His Life and Universe', 'author': 'Walter Isaacson', 'downloaded': False}
+{'title': 'The Economics Book: Big Ideas Simply Explained', 'author': 'Niall Kishtainy', 'downloaded': False}
+{'title': 'The Time Paradox: The New Psychology of Time That Will Change Your Life', 'author': 'Philip G. Zimbardo', 'downloaded': False}
+{'title': 'The Power of Habit: Why We Do What We Do in Life and Business', 'author': 'Charles Duhigg', 'downloaded': False}
+{'title': 'The Catcher in the Rye', 'author': 'J.D. Salinger', 'downloaded': False}
+{'title': 'The Da Vinci Code (Robert Langdon, #2)', 'author': 'Dan Brown', 'downloaded': False}
+{'title': 'Elementary Geometry From an Advanced Standpoint', 'author': 'Edwin Moise', 'downloaded': False}
+{'title': 'Alan Turing: The Enigma', 'author': 'Andrew Hodges', 'downloaded': False}
+{'title': 'Emotions and Life: Perspectives from Psychology, Biology, and Evolution', 'author': 'Robert Plutchik', 'downloaded': False}
+{'title': 'Everything is F*cked: A Book About Hope', 'author': 'Mark Manson', 'downloaded': False}
+{'title': 'Naive Set Theory', 'author': 'Paul R. Halmos', 'downloaded': False}
+{'title': 'The Origins of Totalitarianism', 'author': 'Hannah Arendt', 'downloaded': False}
+{'title': 'Talking to Strangers: What We Should Know About the People We Donâ\x80\x99t Know', 'author': 'Malcolm Gladwell', 'downloaded': False}
+{'title': 'How to Solve It: A New Aspect of Mathematical Method', 'author': 'George PÃ³lya', 'downloaded': False}
+{'title': 'How to read and do proofs', 'author': 'Daniel Solow', 'downloaded': False}
+{'title': 'Concrete Mathematics: A Foundation for Computer Science', 'author': 'Ronald L. Graham', 'downloaded': False}
+{'title': 'Sapiens: A Brief History of Humankind', 'author': 'Yuval Noah Harari', 'downloaded': False}
+{'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'downloaded': False}
+{'title': 'Set theory with applications', 'author': 'Shwu-Yeng T Lin', 'downloaded': False}
+{'title': 'Things to Make and Do in the Fourth Dimension', 'author': 'Matt Parker', 'downloaded': False}
+{'title': 'The Anti-Christ', 'author': 'Friedrich Nietzsche', 'downloaded': False}
+{'title': 'Mein Kampf', 'author': 'Adolf Hitler', 'downloaded': False}
+{'title': 'Thus Spake Zarathustra', 'author': 'Friedrich Nietzsche', 'downloaded': False}
+{'title': 'The King in Yellow', 'author': 'Robert W. Chambers', 'downloaded': False}
+{'title': 'H.P. Lovecraft: Tales', 'author': 'H.P. Lovecraft', 'downloaded': False}
+{'title': 'Requiem for a Dream', 'author': 'Hubert Selby Jr.', 'downloaded': False}
+{'title': 'The World as Will and Representation, Vol. 2', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': "The Contortionist's Handbook", 'author': 'Craig Clevenger', 'downloaded': False}
+{'title': 'The Safety of Objects', 'author': 'A.M. Homes', 'downloaded': False}
+{'title': 'Fear and Loathing in Las Vegas', 'author': 'Hunter S. Thompson', 'downloaded': False}
+{'title': 'The Philosophy of Sartre', 'author': 'Mary Warnock', 'downloaded': False}
+{'title': 'On Epistemology (Philosopher (Wadsworth))', 'author': 'Linda T. Zagzebski', 'downloaded': False}
+{'title': 'The Basic Laws of Human Stupidity', 'author': 'Carlo M. Cipolla', 'downloaded': False}
+{'title': 'On Bullshit', 'author': 'Harry G. Frankfurt', 'downloaded': False}
+{'title': 'You Are Dying, and Your World Is a Lie', 'author': 'Johnny B. Truant', 'downloaded': False}
+{'title': "The Universe Doesn't Give a Flying Fuck About You", 'author': 'Johnny B. Truant', 'downloaded': False}
+{'title': 'A Short History of Decay', 'author': 'Emil M. Cioran', 'downloaded': False}
+{'title': 'Existentialism and Human Emotions', 'author': 'Jean-Paul Sartre', 'downloaded': False}
+{'title': 'Free Will: A Very Short Introduction', 'author': 'Thomas Pink', 'downloaded': False}
+{'title': 'The Ego and Its Own', 'author': 'Max Stirner', 'downloaded': False}
+{'title': 'The False Principle of Our Education', 'author': 'Max Stirner', 'downloaded': False}
+{'title': 'Existentialism', 'author': 'Robert C. Solomon', 'downloaded': False}
+{'title': 'Pessimism: Philosophy, Ethic, Spirit', 'author': 'Joshua Foa Dienstag', 'downloaded': False}
+{'title': 'Existentialism from Dostoevsky to Sartre', 'author': 'Walter Kaufmann', 'downloaded': False}
+{'title': 'No Exit', 'author': 'Jean-Paul Sartre', 'downloaded': False}
+{'title': 'Meditations', 'author': 'Marcus Aurelius', 'downloaded': False}
+{'title': 'Discourses and Selected Writings', 'author': 'Epictetus', 'downloaded': False}
+{'title': 'The Conquest of Happiness', 'author': 'Bertrand Russell', 'downloaded': False}
+{'title': 'Basic Writings of Nietzsche', 'author': 'Friedrich Nietzsche', 'downloaded': False}
+{'title': 'The Plague', 'author': 'Albert Camus', 'downloaded': False}
+{'title': 'The Horrors and Absurdities of Religion', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'Ethics without Morals: In Defence of Amorality', 'author': 'Joel Marks', 'downloaded': False}
+{'title': 'The Complete Essays', 'author': 'Michel de Montaigne', 'downloaded': False}
+{'title': 'Existentialism is a Humanism', 'author': 'Jean-Paul Sartre', 'downloaded': False}
+{'title': 'Fight Club', 'author': 'Chuck Palahniuk', 'downloaded': False}
+{'title': 'Letters from a Stoic', 'author': 'Seneca', 'downloaded': False}
+{'title': 'The Specter of the Absurd: Sources and Criticisms of Modern Nihilism', 'author': 'Donald A. Crosby', 'downloaded': False}
+{'title': 'The Dark Side: Thoughts on the Futility of Life from Ancient Greeks to the Present', 'author': 'Alan R. Pratt', 'downloaded': False}
+{'title': 'The Sadness of Sex', 'author': 'Barry Yourgrau', 'downloaded': False}
+{'title': 'Do Androids Dream of Electric Sheep? (Blade Runner, #1)', 'author': 'Philip K. Dick', 'downloaded': False}
+{'title': 'The Filth', 'author': 'Grant Morrison', 'downloaded': False}
+{'title': 'Oct 01, 2019', 'author': '', 'downloaded': False}
+{'title': 'view', 'author': '1984', 'downloaded': False}
+{'title': '1984', 'author': 'George Orwell', 'downloaded': False}
+{'title': "Cat's Cradle", 'author': 'Kurt Vonnegut Jr.', 'downloaded': False}
+{'title': 'A Clockwork Orange', 'author': 'Anthony Burgess', 'downloaded': False}
+{'title': 'Brave New World', 'author': 'Aldous Huxley', 'downloaded': False}
+{'title': 'Lord of the Flies', 'author': 'William Golding', 'downloaded': False}
+{'title': 'The Picture of Dorian Gray', 'author': 'Oscar Wilde', 'downloaded': False}
+{'title': 'Fahrenheit 451', 'author': 'Ray Bradbury', 'downloaded': False}
+{'title': 'The Art of Thinking Clearly', 'author': 'Rolf Dobelli', 'downloaded': False}
+{'title': 'Language, Truth, and Logic', 'author': 'A.J. Ayer', 'downloaded': False}
+{'title': 'Consciousness Explained', 'author': 'Daniel C. Dennett', 'downloaded': False}
+{'title': 'Philosophy of Physics: Space and Time', 'author': 'Tim Maudlin', 'downloaded': False}
+{'title': "Man's Search for Meaning", 'author': 'Viktor E. Frankl', 'downloaded': False}
+{'title': "Quiet: The Power of Introverts in a World That Can't Stop Talking", 'author': 'Susan Cain', 'downloaded': False}
+{'title': 'The Clown', 'author': 'Heinrich BÃ¶ll', 'downloaded': False}
+{'title': 'I Wear the Black Hat: Grappling With Villains (Real and Imagined)', 'author': 'Chuck Klosterman', 'downloaded': False}
+{'title': 'Geek Love', 'author': 'Katherine Dunn', 'downloaded': False}
+{'title': 'Hypothetical Thinking: Dual Processes in Reasoning and Judgement', 'author': 'Jonathan St.B.T. Evans', 'downloaded': False}
+{'title': 'Caligula', 'author': 'Albert Camus', 'downloaded': False}
+{'title': 'Too Loud a Solitude', 'author': 'Bohumil Hrabal', 'downloaded': False}
+{'title': 'Trainspotting', 'author': 'Irvine Welsh', 'downloaded': False}
+{'title': 'House of Leaves', 'author': 'Mark Z. Danielewski', 'downloaded': False}
+{'title': 'The Will to Power', 'author': 'Friedrich Nietzsche', 'downloaded': False}
+{'title': 'The Denial of Death', 'author': 'Ernest Becker', 'downloaded': False}
+{'title': 'Empiricism and the Philosophy of Mind', 'author': 'Wilfrid Sellars', 'downloaded': False}
+{'title': 'The Myth of Choice: Personal Responsibility in a World of Limits', 'author': 'Kent Greenfield', 'downloaded': False}
+{'title': 'Filth', 'author': 'Irvine Welsh', 'downloaded': False}
+{'title': 'The Spectral Link', 'author': 'Thomas Ligotti', 'downloaded': False}
+{'title': 'Adieu Gary Cooper', 'author': 'Romain Gary', 'downloaded': False}
+{'title': 'Studies in Pessimism: The Essays', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'The Basis of Morality', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'The Fall', 'author': 'Albert Camus', 'downloaded': False}
+{'title': 'Waiting for Godot', 'author': 'Samuel Beckett', 'downloaded': False}
+{'title': 'On the Suffering of the World', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'Introduction to Metaphysics', 'author': 'Martin Heidegger', 'downloaded': False}
+{'title': 'The Wisdom of Life and Counsels and Maxims', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'The Temptation to Exist', 'author': 'Emil M. Cioran', 'downloaded': False}
+{'title': 'Braintrust: What Neuroscience Tells Us About Morality', 'author': 'Patricia S. Churchland', 'downloaded': False}
+{'title': 'The Quest for Consciousness: A Neurobiological Approach', 'author': 'Christof Koch', 'downloaded': False}
+{'title': 'The World as Will and Representation, Vol. 1', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'Beyond Good and Evil', 'author': 'Friedrich Nietzsche', 'downloaded': False}
+{'title': 'On Certainty', 'author': 'Ludwig Wittgenstein', 'downloaded': False}
+{'title': 'In the Dust of This Planet (Horror of Philosophy, #1)', 'author': 'Eugene Thacker', 'downloaded': False}
+{'title': 'The Brothers Karamazov', 'author': 'Fyodor Dostoyevsky', 'downloaded': False}
+{'title': 'Journey to the End of the Night', 'author': 'Louis-Ferdinand CÃ©line', 'downloaded': False}
+{'title': 'On the Heights of Despair', 'author': 'Emil M. Cioran', 'downloaded': False}
+{'title': 'The Blind Owl', 'author': 'Sadegh Hedayat', 'downloaded': False}
+{'title': 'Being and Time', 'author': 'Martin Heidegger', 'downloaded': False}
+{'title': 'Nihil Unbound: Naturalism and Anti-Phenomenological Realism', 'author': 'Ray Brassier', 'downloaded': False}
+{'title': 'Essays', 'author': 'Peter Wessel Zapffe', 'downloaded': False}
+{'title': 'Better Never to Have Been: The Harm of Coming into Existence', 'author': 'David Benatar', 'downloaded': False}
+{'title': 'Essays and Aphorisms', 'author': 'Arthur Schopenhauer', 'downloaded': False}
+{'title': 'The Myth of Sisyphus and Other Essays', 'author': 'Albert Camus', 'downloaded': False}
+{'title': 'Crime and Punishment', 'author': 'Fyodor Dostoyevsky', 'downloaded': False}
+{'title': 'Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead', 'author': 'Fyodor Dostoyevsky', 'downloaded': False}
+{'title': 'The Trouble with Being Born', 'author': 'Emil M. Cioran', 'downloaded': False}
+{'title': 'Being and Nothingness', 'author': 'Jean-Paul Sartre', 'downloaded': False}
+{'title': 'The Conspiracy Against the Human Race', 'author': 'Thomas Ligotti', 'downloaded': False}
+{'title': 'Always Coming Home', 'author': 'Ursula K. Le Guin', 'downloaded': False}
+{'title': 'The Laws of Human Nature', 'author': 'Robert Greene', 'downloaded': False}
+{'title': 'The 33 Strategies of War', 'author': 'Robert Greene', 'downloaded': False}
+{'title': 'The Art of Seduction', 'author': 'Robert Greene', 'downloaded': False}
+{'title': 'The 48 Laws of Power', 'author': 'Robert Greene', 'downloaded': False}
+{'title': 'Mastery', 'author': 'Robert Greene', 'downloaded': False}
+{'title': 'The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It', 'author': 'Kelly McGonigal', 'downloaded': False}
+{'title': 'Free Will', 'author': 'Sam Harris', 'downloaded': False}
+{'title': 'The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science', 'author': 'Norman Doidge', 'downloaded': False}
+{'title': 'You Are Not Your Brain: The 4-Step Solution for Changing Bad Habits, Ending Unhealthy Thinking, and Taking Control of Your Life', 'author': 'Jeffrey M. Schwartz', 'downloaded': False}
+{'title': 'The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life', 'author': 'Mark Manson', 'downloaded': False}
+{'title': 'The Brain: The Story of You', 'author': 'David Eagleman', 'downloaded': False}
+{'title': 'Predictably Irrational: The Hidden Forces That Shape Our Decisions', 'author': 'Dan Ariely', 'downloaded': False}
+{'title': 'Merchants of Doubt', 'author': 'Jesse Russell', 'downloaded': False}
+{'title': 'Seveneves', 'author': 'Neal Stephenson', 'downloaded': False}
+{'title': 'A Short History of Nearly Everything', 'author': 'Bill Bryson', 'downloaded': False}
+{'title': 'Genius: The Life and Science of Richard Feynman', 'author': 'James Gleick', 'downloaded': False}
+{'title': '"Surely You\'re Joking, Mr. Feynman!": Adventures of a Curious Character', 'author': 'Richard Feynman', 'downloaded': False}
+{'title': "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It", 'author': 'Michael E. Gerber', 'downloaded': False}
+{'title': 'Bad Astronomy', 'author': 'Philip Plait', 'downloaded': False}
+{'title': 'The Information: A History, a Theory, a Flood', 'author': 'James Gleick', 'downloaded': False}
+{'title': 'The Grammar of Science', 'author': 'Karl Pearson', 'downloaded': False}
+{'title': 'Science and Hypothesis', 'author': 'Henri PoincarÃ©', 'downloaded': False}
+{'title': 'Analysis of Sensations: Works in the Philosophy of Science 1830-1914', 'author': 'Ernst Mach', 'downloaded': False}
+{'title': 'Ethics', 'author': 'Baruch Spinoza', 'downloaded': False}
+{'title': 'A Treatise of Human Nature', 'author': 'David Hume', 'downloaded': False}
+{'title': 'Everything Is Illuminated', 'author': 'Jonathan Safran Foer', 'downloaded': False}
+{'title': 'In Search of the Multiverse', 'author': 'John Gribbin', 'downloaded': False}
+{'title': 'The Pig That Wants to Be Eaten: 100 Experiments for the Armchair Philosopher', 'author': 'Julian Baggini', 'downloaded': False}
+{'title': 'The Life of the Cosmos', 'author': 'Lee Smolin', 'downloaded': False}
+{'title': 'Expedition To Earth', 'author': 'Arthur C. Clarke', 'downloaded': False}
+{'title': 'The Logic of Scientific Discovery', 'author': 'Karl Popper', 'downloaded': False}
+{'title': 'Motel of the Mysteries', 'author': 'David Macaulay', 'downloaded': False}
+{'title': "Everyone Loves a Good Train Wreck: Why We Can't Look Away", 'author': 'Eric G. Wilson', 'downloaded': False}
+{'title': 'The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed History, and Made Wordplay More Than Some Antics', 'author': 'John Pollack', 'downloaded': False}
+{'title': 'Spacesuit: Fashioning Apollo', 'author': 'Nicholas de Monchaux', 'downloaded': False}
+{'title': 'The Art of Immersion: How the Digital Generation Is Remaking Hollywood, Madison Avenue, and the Way We Tell Stories', 'author': 'Frank Rose', 'downloaded': False}
+{'title': 'After We Die: The Life and Times of the Human Cadaver', 'author': 'Norman L. Cantor', 'downloaded': False}
+{'title': 'Probability Tales', 'author': 'Charles M. Grinstead', 'downloaded': False}
+{'title': 'Mathematics, Magic and Mystery', 'author': 'Martin Gardner', 'downloaded': False}
+{'title': 'The Whys of a Philosophical Scrivener', 'author': 'Martin Gardner', 'downloaded': False}
+{'title': 'The Half-life of Facts: Why Everything We Know Has an Expiration Date', 'author': 'Samuel Arbesman', 'downloaded': False}
+{'title': 'Boredom: A Lively History', 'author': 'Peter Toohey', 'downloaded': False}
+{'title': 'How to Disappear', 'author': 'Frank M. Ahearn', 'downloaded': False}
+{'title': 'The World Until Yesterday: What Can We Learn from Traditional Societies?', 'author': 'Jared Diamond', 'downloaded': False}
+{'title': 'Bowling Alone: The Collapse and Revival of American Community', 'author': 'Robert D. Putnam', 'downloaded': False}
+{'title': 'The Universe and the Teacup: The Mathematics of Truth and Beauty', 'author': 'K.C. Cole', 'downloaded': False}
+{'title': 'A Universe from Nothing: Why There Is Something Rather than Nothing', 'author': 'Lawrence M. Krauss', 'downloaded': False}
+{'title': 'Relativity Visualized: The Gold Nugget of Relativity Books', 'author': 'Lewis Carroll Epstein', 'downloaded': False}
+{'title': 'Should You Judge This Book by Its Cover?: 100 Fresh Takes on Familiar Sayings and Quotations', 'author': 'Julian Baggini', 'downloaded': False}
+{'title': 'Rene Girard and Myth: An Introduction', 'author': 'Richard J. Golsan', 'downloaded': False}
+{'title': 'Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity', 'author': 'Katherine Boo', 'downloaded': False}
+{'title': 'Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety', 'author': 'Eric Schlosser', 'downloaded': False}
+{'title': 'Remember, Remember (The Fifth of November): The History of Britain in Bite-Sized Chunks', 'author': 'Judy Parkinson', 'downloaded': False}
+{'title': 'The Book of Disquiet: The Complete Edition', 'author': 'Fernando Pessoa', 'downloaded': False}
+{'title': 'The Scapegoat', 'author': 'RenÃ© Girard', 'downloaded': False}
+{'title': 'The 80/20 Principle: The Secret to Achieving More with Less', 'author': 'Richard Koch', 'downloaded': False}
+{'title': 'The Universal History of Numbers: From Prehistory to the Invention of the Computer', 'author': 'Georges Ifrah', 'downloaded': False}
+{'title': 'Quirkology', 'author': 'Richard Wiseman', 'downloaded': False}
+{'title': 'Rethinking Curating: Art After New Media', 'author': 'Beryl Graham', 'downloaded': False}
+{'title': 'The $12 Million Stuffed Shark: The Curious Economics of Contemporary Art', 'author': 'Don Thompson', 'downloaded': False}
+{'title': 'Don Quixote', 'author': 'Miguel de Cervantes Saavedra', 'downloaded': False}
+{'title': 'Smoke Gets in Your Eyes: And Other Lessons from the Crematory', 'author': 'Caitlin Doughty', 'downloaded': False}
+{'title': 'The Poetry of Thought: From Hellenism to Celan', 'author': 'George Steiner', 'downloaded': False}
+{'title': 'The 7 Laws of Magical Thinking: How Irrational Beliefs Keep Us Happy, Healthy, and Sane', 'author': 'Matthew Hutson', 'downloaded': False}
+{'title': 'There Are Two Errors in the the Title of This Book', 'author': 'Robert M. Martin', 'downloaded': False}
+{'title': 'Paper Towns', 'author': 'John Green', 'downloaded': False}
+{'title': 'A Philosophy of Boredom', 'author': 'Lars Fredrik HÃ¤ndler Svendsen', 'downloaded': False}
+{'title': 'Soccernomics', 'author': 'Simon Kuper', 'downloaded': False}
+{'title': 'The Mind Test', 'author': 'Rita Aero', 'downloaded': False}
+{'title': 'Everything Bad is Good for You', 'author': 'Steven Johnson', 'downloaded': False}
+{'title': 'Death by Black Hole: And Other Cosmic Quandaries', 'author': 'Neil deGrasse Tyson', 'downloaded': False}
+{'title': 'Why Beliefs Matter: Reflections on the Nature of Science', 'author': 'E. Brian Davies', 'downloaded': False}
+{'title': 'The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us', 'author': 'Noson S. Yanofsky', 'downloaded': False}
+{'title': 'The Pea and the Sun: A Mathematical Paradox', 'author': 'Leonard M. Wapner', 'downloaded': False}
+{'title': 'Gadsby', 'author': 'Ernest Vincent Wright', 'downloaded': False}
+{'title': 'The Seven Mysteries of Life: An Exploration of Science and Philosophy', 'author': 'Guy Murchie', 'downloaded': False}
+{'title': 'Just My Type: A Book About Fonts', 'author': 'Simon Garfield', 'downloaded': False}
+{'title': 'Zero to One: Notes on Startups, or How to Build the Future', 'author': 'Peter Thiel', 'downloaded': False}
+{'title': 'The Meaning of It All: Thoughts of a Citizen-Scientist', 'author': 'Richard Feynman', 'downloaded': False}
+{'title': 'The Improbability Principle: Why Coincidences, Miracles, and Rare Events Happen Every Day', 'author': 'David J. Hand', 'downloaded': False}
+{'title': 'Guns, Germs, and Steel: The Fates of Human Societies', 'author': 'Jared Diamond', 'downloaded': False}
+{'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell', 'downloaded': False}
+{'title': 'Evolution and Conversion: Dialogues on the Origins of Culture', 'author': 'RenÃ© Girard', 'downloaded': False}
+{'title': 'What If? Serious Scientific Answers to Absurd Hypothetical Questions', 'author': 'Randall Munroe', 'downloaded': False}
+{'title': 'Thinking, Fast and Slow', 'author': 'Daniel Kahneman', 'downloaded': False}
+{'title': 'Undeniable: Evolution and the Science of Creation', 'author': 'Bill Nye', 'downloaded': False}
+{'title': 'The Bridge to Lucy Dunne', 'author': 'Exurb1a', 'downloaded': False}
+{'title': 'The Fifth Science', 'author': 'Exurb1a', 'downloaded': False}
+{'title': 'The Prince of Milk', 'author': 'Exurb1a', 'downloaded': False}
+{'title': 'Logic Beach: Part I', 'author': 'Exurb1a', 'downloaded': False}
