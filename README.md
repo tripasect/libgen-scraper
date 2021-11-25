@@ -9,6 +9,5 @@ Requirements:
 
 
 Help:
-  With use of Python itself, prepare your 'book-list.txt' file as a list of dictionaries.
-Run libgen.py at the same directory that you want to download your files in.
-It starts to download.
+Using Python itself, prepare your 'book-list.txt' file as a list of dictionaries.
+Run libgen.py in the same directory that you wish to download your files in.
